@@ -121,7 +121,7 @@ class App extends Component {
                   { name: members[i].name, val : alc}
                 ]
 								// rm.put(members.get(i), alc);
-							}
+							}else{i--;continue;}
 						}
 					} else {
 						i--;
