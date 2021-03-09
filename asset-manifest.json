@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/teammaker/static/js/main.1630c82c.chunk.js",
-    "main.js.map": "/teammaker/static/js/main.1630c82c.chunk.js.map",
+    "main.js": "/teammaker/static/js/main.8674e750.chunk.js",
+    "main.js.map": "/teammaker/static/js/main.8674e750.chunk.js.map",
     "runtime-main.js": "/teammaker/static/js/runtime-main.bfcaf546.js",
     "runtime-main.js.map": "/teammaker/static/js/runtime-main.bfcaf546.js.map",
     "static/css/2.150d169a.chunk.css": "/teammaker/static/css/2.150d169a.chunk.css",
-    "static/js/2.1abf4290.chunk.js": "/teammaker/static/js/2.1abf4290.chunk.js",
-    "static/js/2.1abf4290.chunk.js.map": "/teammaker/static/js/2.1abf4290.chunk.js.map",
+    "static/js/2.465b2ed9.chunk.js": "/teammaker/static/js/2.465b2ed9.chunk.js",
+    "static/js/2.465b2ed9.chunk.js.map": "/teammaker/static/js/2.465b2ed9.chunk.js.map",
     "static/js/3.c1684fd0.chunk.js": "/teammaker/static/js/3.c1684fd0.chunk.js",
     "static/js/3.c1684fd0.chunk.js.map": "/teammaker/static/js/3.c1684fd0.chunk.js.map",
     "index.html": "/teammaker/index.html",
     "static/css/2.150d169a.chunk.css.map": "/teammaker/static/css/2.150d169a.chunk.css.map",
-    "static/js/2.1abf4290.chunk.js.LICENSE.txt": "/teammaker/static/js/2.1abf4290.chunk.js.LICENSE.txt"
+    "static/js/2.465b2ed9.chunk.js.LICENSE.txt": "/teammaker/static/js/2.465b2ed9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bfcaf546.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.1abf4290.chunk.js",
-    "static/js/main.1630c82c.chunk.js"
+    "static/js/2.465b2ed9.chunk.js",
+    "static/js/main.8674e750.chunk.js"
   ]
 }
